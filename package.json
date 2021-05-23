@@ -10,7 +10,6 @@
     "lint": "eslint .",
     "test": "node --experimental-vm-modules ./node_modules/.bin/jest --verbose --runInBand",
     "test:watch": "npm run test -- --watch"
-
   },
   "keywords": [],
   "author": "",
